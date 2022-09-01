@@ -6,6 +6,7 @@ defaultContentLanguage = "ja"
 canonifyurls = true
 paginate = 6
 hasCJKLanguage = true
+publishDir = "docs"
 enableEmoji = true
 enableGitInfo = true
 

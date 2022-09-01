@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>xdcyw.net</title>
+    <link>http://xdcyw.net/</link>
+    <description>Recent content on xdcyw.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 01 Sep 2022 21:35:30 +0900</lastBuildDate><atom:link href="http://xdcyw.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://xdcyw.net/about/</link>
+      <pubDate>Thu, 01 Sep 2022 21:35:30 +0900</pubDate>
+      
+      <guid>http://xdcyw.net/about/</guid>
+      <description>現在17歳の高校生です。 受験生なので殆ど更新することは無いかもしれません。 興味・関心 好きなもの ・海援隊（フォークグループ） ・スタートレックシ</description>
+    </item>
+    
+    <item>
+      <title>Androidスマホからhugoを更新する方法</title>
+      <link>http://xdcyw.net/post/android%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8B%E3%82%89hugo%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 29 Sep 2021 05:29:27 +0900</pubDate>
+      
+      <guid>http://xdcyw.net/post/android%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8B%E3%82%89hugo%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+      <description>今回は、hugoで書かれたサイトをAndroidスマホから更新する方法を紹介していこうと思います。 github pagesにホスティングされている事を前</description>
+    </item>
+    
+    <item>
+      <title>青空文庫やプロジェクト杉田玄白のファイルをおいておくだけの場所</title>
+      <link>http://xdcyw.net/aozora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://xdcyw.net/aozora/</guid>
+      <description>羅生門 こころ 破戒 1984(PDF)*未完成 資本論(PDF)*未完成 タイムマシン フリーソフトウェアは独占的ソフトウェアよりも信頼できる ガリバー</description>
+    </item>
+    
+  </channel>
+</rss>
