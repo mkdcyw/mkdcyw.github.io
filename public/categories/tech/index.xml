@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on xdcyw.net</title>
+    <link>http://xdcyw.net/categories/tech/</link>
+    <description>Recent content in tech on xdcyw.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 29 Sep 2021 05:29:27 +0900</lastBuildDate><atom:link href="http://xdcyw.net/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Androidスマホからhugoを更新する方法</title>
+      <link>http://xdcyw.net/post/android%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8B%E3%82%89hugo%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 29 Sep 2021 05:29:27 +0900</pubDate>
+      
+      <guid>http://xdcyw.net/post/android%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%8B%E3%82%89hugo%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+      <description>今回は、hugoで書かれたサイトをAndroidスマホから更新する方法を紹介していこうと思います。 github pagesにホスティングされている事を前</description>
+    </item>
+    
+  </channel>
+</rss>
