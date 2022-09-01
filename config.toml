@@ -1,0 +1,49 @@
+baseURL = "http://xdcyw.net/"
+title = "xdcyw.net"
+theme = "PaperMod"
+languageCode = 'ja-jp'
+defaultContentLanguage = "ja"
+canonifyurls = true
+paginate = 6
+hasCJKLanguage = true
+enableEmoji = true
+enableGitInfo = true
+
+[params.homeInfoParams]
+Title = "xdcyw.net"
+Content = """
+
+- xdcywのホームページです。
+- 使っていないドメインが余っていたのでなんとなく作ってみただけなので
+- 更新することはないかと思います。
+        """
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/m953dcw"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/xdcyw"
+
+[[params.socialIcons]]
+name = "note"
+url = "https://note.com/xdcyw"
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 5
+
+#[[menu.main]]
+#identifier = "categories"
+#name = "categories"
+#url = "categories/"
+#weight = 15
+
+
